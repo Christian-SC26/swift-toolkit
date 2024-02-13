@@ -55,3 +55,5 @@ public final class LRUCache<Key: Hashable, Value>: @unchecked Sendable {
         order.removeAll()
     }
 }
+
+// Build revision #24
