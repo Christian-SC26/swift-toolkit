@@ -37,4 +37,4 @@ final class SwiftToolkitTests: XCTestCase {
     }
 }
 
-// Build revision #26
+// Build revision #40
