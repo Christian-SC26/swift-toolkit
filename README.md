@@ -51,4 +51,4 @@ let image = cache.get("avatar")
 ## License
 MIT License. Created by Christian.
 
-<!-- Build revision #83 -->
+<!-- Build revision #97 -->
