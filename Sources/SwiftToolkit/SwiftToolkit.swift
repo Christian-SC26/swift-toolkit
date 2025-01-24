@@ -5,4 +5,4 @@ public enum SwiftToolkit {
     public static let version = "1.0.0"
 }
 
-// Build revision #172
+// Build revision #186
