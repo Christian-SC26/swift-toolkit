@@ -19,5 +19,3 @@ public extension String {
         return self
     }
 }
-
-// Build revision #342

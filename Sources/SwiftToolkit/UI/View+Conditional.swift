@@ -23,5 +23,3 @@ public extension View {
     }
 }
 #endif
-
-// Build revision #333

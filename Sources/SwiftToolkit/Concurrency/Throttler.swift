@@ -16,5 +16,3 @@ public actor Throttler {
         await action()
     }
 }
-
-// Build revision #345

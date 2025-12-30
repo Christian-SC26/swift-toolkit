@@ -40,5 +40,3 @@ public extension Color {
     }
 }
 #endif
-
-// Build revision #343
